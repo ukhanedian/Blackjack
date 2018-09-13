@@ -1,2 +1,2 @@
 # Blackjack
-A famous card game played between computer and user
+A famous card game played between computer and user.
